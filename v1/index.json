@@ -1,0 +1,2758 @@
+{
+ "schema": 1,
+ "attribution": "3D pictures: Fluent Emoji, Copyright (c) Microsoft Corporation, MIT License (LICENSE-fluentui-emoji.txt)",
+ "packs": [
+  {
+   "id": "smileys",
+   "version": 1,
+   "name": "Smileys",
+   "url": "packs/smileys-1.zip",
+   "bytes": 441016,
+   "sha256": "dcc78f1cac0b5d0909efecbd3fe01eda1ad8611e2531d5e5837116e9121e6127",
+   "stickers": [
+    {
+     "id": "grinning_face",
+     "description": "grinning face"
+    },
+    {
+     "id": "grinning_face_with_big_eyes",
+     "description": "grinning face with big eyes"
+    },
+    {
+     "id": "grinning_face_with_smiling_eyes",
+     "description": "grinning face with smiling eyes"
+    },
+    {
+     "id": "beaming_face_with_smiling_eyes",
+     "description": "beaming face with smiling eyes"
+    },
+    {
+     "id": "grinning_squinting_face",
+     "description": "grinning squinting face"
+    },
+    {
+     "id": "grinning_face_with_sweat",
+     "description": "grinning face with sweat"
+    },
+    {
+     "id": "rolling_on_the_floor_laughing",
+     "description": "rolling on the floor laughing"
+    },
+    {
+     "id": "face_with_tears_of_joy",
+     "description": "face with tears of joy"
+    },
+    {
+     "id": "slightly_smiling_face",
+     "description": "slightly smiling face"
+    },
+    {
+     "id": "upside_down_face",
+     "description": "upside-down face"
+    },
+    {
+     "id": "melting_face",
+     "description": "melting face"
+    },
+    {
+     "id": "winking_face",
+     "description": "winking face"
+    },
+    {
+     "id": "smiling_face_with_smiling_eyes",
+     "description": "smiling face with smiling eyes"
+    },
+    {
+     "id": "smiling_face_with_halo",
+     "description": "smiling face with halo"
+    },
+    {
+     "id": "smiling_face_with_hearts",
+     "description": "smiling face with hearts"
+    },
+    {
+     "id": "smiling_face_with_heart_eyes",
+     "description": "smiling face with heart-eyes"
+    },
+    {
+     "id": "star_struck",
+     "description": "star-struck"
+    },
+    {
+     "id": "face_blowing_a_kiss",
+     "description": "face blowing a kiss"
+    },
+    {
+     "id": "kissing_face",
+     "description": "kissing face"
+    },
+    {
+     "id": "smiling_face",
+     "description": "smiling face"
+    },
+    {
+     "id": "kissing_face_with_closed_eyes",
+     "description": "kissing face with closed eyes"
+    },
+    {
+     "id": "kissing_face_with_smiling_eyes",
+     "description": "kissing face with smiling eyes"
+    },
+    {
+     "id": "smiling_face_with_tear",
+     "description": "smiling face with tear"
+    },
+    {
+     "id": "face_savoring_food",
+     "description": "face savoring food"
+    },
+    {
+     "id": "face_with_tongue",
+     "description": "face with tongue"
+    },
+    {
+     "id": "winking_face_with_tongue",
+     "description": "winking face with tongue"
+    },
+    {
+     "id": "zany_face",
+     "description": "zany face"
+    },
+    {
+     "id": "squinting_face_with_tongue",
+     "description": "squinting face with tongue"
+    },
+    {
+     "id": "money_mouth_face",
+     "description": "money-mouth face"
+    },
+    {
+     "id": "hugging_face",
+     "description": "smiling face with open hands"
+    },
+    {
+     "id": "face_with_hand_over_mouth",
+     "description": "face with hand over mouth"
+    },
+    {
+     "id": "face_with_open_eyes_and_hand_over_mouth",
+     "description": "face with open eyes and hand over mouth"
+    },
+    {
+     "id": "face_with_peeking_eye",
+     "description": "face with peeking eye"
+    },
+    {
+     "id": "shushing_face",
+     "description": "shushing face"
+    },
+    {
+     "id": "thinking_face",
+     "description": "thinking face"
+    },
+    {
+     "id": "saluting_face",
+     "description": "saluting face"
+    },
+    {
+     "id": "zipper_mouth_face",
+     "description": "zipper-mouth face"
+    },
+    {
+     "id": "face_with_raised_eyebrow",
+     "description": "face with raised eyebrow"
+    },
+    {
+     "id": "neutral_face",
+     "description": "neutral face"
+    },
+    {
+     "id": "expressionless_face",
+     "description": "expressionless face"
+    },
+    {
+     "id": "face_without_mouth",
+     "description": "face without mouth"
+    },
+    {
+     "id": "dotted_line_face",
+     "description": "dotted line face"
+    },
+    {
+     "id": "face_in_clouds",
+     "description": "face in clouds"
+    },
+    {
+     "id": "smirking_face",
+     "description": "smirking face"
+    },
+    {
+     "id": "unamused_face",
+     "description": "unamused face"
+    },
+    {
+     "id": "face_with_rolling_eyes",
+     "description": "face with rolling eyes"
+    },
+    {
+     "id": "grimacing_face",
+     "description": "grimacing face"
+    },
+    {
+     "id": "face_exhaling",
+     "description": "face exhaling"
+    },
+    {
+     "id": "lying_face",
+     "description": "lying face"
+    },
+    {
+     "id": "shaking_face",
+     "description": "shaking face"
+    },
+    {
+     "id": "head_shaking_horizontally",
+     "description": "head shaking horizontally"
+    },
+    {
+     "id": "head_shaking_vertically",
+     "description": "head shaking vertically"
+    },
+    {
+     "id": "relieved_face",
+     "description": "relieved face"
+    },
+    {
+     "id": "pensive_face",
+     "description": "pensive face"
+    },
+    {
+     "id": "sleepy_face",
+     "description": "sleepy face"
+    },
+    {
+     "id": "drooling_face",
+     "description": "drooling face"
+    },
+    {
+     "id": "sleeping_face",
+     "description": "sleeping face"
+    }
+   ]
+  },
+  {
+   "id": "feelings",
+   "version": 1,
+   "name": "Feelings",
+   "url": "packs/feelings-1.zip",
+   "bytes": 551562,
+   "sha256": "4db5335d5d511defe45932c7882899d7ad7cfc90ea6990afca1c3f94965c56d1",
+   "stickers": [
+    {
+     "id": "face_with_medical_mask",
+     "description": "face with medical mask"
+    },
+    {
+     "id": "face_with_thermometer",
+     "description": "face with thermometer"
+    },
+    {
+     "id": "face_with_head_bandage",
+     "description": "face with head-bandage"
+    },
+    {
+     "id": "nauseated_face",
+     "description": "nauseated face"
+    },
+    {
+     "id": "face_vomiting",
+     "description": "face vomiting"
+    },
+    {
+     "id": "sneezing_face",
+     "description": "sneezing face"
+    },
+    {
+     "id": "hot_face",
+     "description": "hot face"
+    },
+    {
+     "id": "cold_face",
+     "description": "cold face"
+    },
+    {
+     "id": "woozy_face",
+     "description": "woozy face"
+    },
+    {
+     "id": "knocked_out_face",
+     "description": "face with crossed-out eyes"
+    },
+    {
+     "id": "face_with_spiral_eyes",
+     "description": "face with spiral eyes"
+    },
+    {
+     "id": "exploding_head",
+     "description": "exploding head"
+    },
+    {
+     "id": "cowboy_hat_face",
+     "description": "cowboy hat face"
+    },
+    {
+     "id": "partying_face",
+     "description": "partying face"
+    },
+    {
+     "id": "disguised_face",
+     "description": "disguised face"
+    },
+    {
+     "id": "smiling_face_with_sunglasses",
+     "description": "smiling face with sunglasses"
+    },
+    {
+     "id": "nerd_face",
+     "description": "nerd face"
+    },
+    {
+     "id": "face_with_monocle",
+     "description": "face with monocle"
+    },
+    {
+     "id": "confused_face",
+     "description": "confused face"
+    },
+    {
+     "id": "face_with_diagonal_mouth",
+     "description": "face with diagonal mouth"
+    },
+    {
+     "id": "worried_face",
+     "description": "worried face"
+    },
+    {
+     "id": "slightly_frowning_face",
+     "description": "slightly frowning face"
+    },
+    {
+     "id": "frowning_face",
+     "description": "frowning face"
+    },
+    {
+     "id": "face_with_open_mouth",
+     "description": "face with open mouth"
+    },
+    {
+     "id": "hushed_face",
+     "description": "hushed face"
+    },
+    {
+     "id": "astonished_face",
+     "description": "astonished face"
+    },
+    {
+     "id": "flushed_face",
+     "description": "flushed face"
+    },
+    {
+     "id": "pleading_face",
+     "description": "pleading face"
+    },
+    {
+     "id": "face_holding_back_tears",
+     "description": "face holding back tears"
+    },
+    {
+     "id": "frowning_face_with_open_mouth",
+     "description": "frowning face with open mouth"
+    },
+    {
+     "id": "anguished_face",
+     "description": "anguished face"
+    },
+    {
+     "id": "fearful_face",
+     "description": "fearful face"
+    },
+    {
+     "id": "anxious_face_with_sweat",
+     "description": "anxious face with sweat"
+    },
+    {
+     "id": "sad_but_relieved_face",
+     "description": "sad but relieved face"
+    },
+    {
+     "id": "crying_face",
+     "description": "crying face"
+    },
+    {
+     "id": "loudly_crying_face",
+     "description": "loudly crying face"
+    },
+    {
+     "id": "face_screaming_in_fear",
+     "description": "face screaming in fear"
+    },
+    {
+     "id": "confounded_face",
+     "description": "confounded face"
+    },
+    {
+     "id": "persevering_face",
+     "description": "persevering face"
+    },
+    {
+     "id": "disappointed_face",
+     "description": "disappointed face"
+    },
+    {
+     "id": "downcast_face_with_sweat",
+     "description": "downcast face with sweat"
+    },
+    {
+     "id": "weary_face",
+     "description": "weary face"
+    },
+    {
+     "id": "tired_face",
+     "description": "tired face"
+    },
+    {
+     "id": "yawning_face",
+     "description": "yawning face"
+    },
+    {
+     "id": "face_with_steam_from_nose",
+     "description": "face with steam from nose"
+    },
+    {
+     "id": "pouting_face",
+     "description": "pouting face"
+    },
+    {
+     "id": "angry_face",
+     "description": "angry face"
+    },
+    {
+     "id": "face_with_symbols_on_mouth",
+     "description": "face with symbols on mouth"
+    },
+    {
+     "id": "smiling_face_with_horns",
+     "description": "smiling face with horns"
+    },
+    {
+     "id": "angry_face_with_horns",
+     "description": "angry face with horns"
+    },
+    {
+     "id": "skull",
+     "description": "skull"
+    },
+    {
+     "id": "skull_and_crossbones",
+     "description": "skull and crossbones"
+    },
+    {
+     "id": "pile_of_poo",
+     "description": "pile of poo"
+    },
+    {
+     "id": "clown_face",
+     "description": "clown face"
+    },
+    {
+     "id": "ogre",
+     "description": "ogre"
+    },
+    {
+     "id": "goblin",
+     "description": "goblin"
+    },
+    {
+     "id": "ghost",
+     "description": "ghost"
+    },
+    {
+     "id": "alien",
+     "description": "alien"
+    },
+    {
+     "id": "alien_monster",
+     "description": "alien monster"
+    },
+    {
+     "id": "robot",
+     "description": "robot"
+    },
+    {
+     "id": "grinning_cat",
+     "description": "grinning cat"
+    },
+    {
+     "id": "grinning_cat_with_smiling_eyes",
+     "description": "grinning cat with smiling eyes"
+    },
+    {
+     "id": "cat_with_tears_of_joy",
+     "description": "cat with tears of joy"
+    },
+    {
+     "id": "smiling_cat_with_heart_eyes",
+     "description": "smiling cat with heart-eyes"
+    },
+    {
+     "id": "cat_with_wry_smile",
+     "description": "cat with wry smile"
+    },
+    {
+     "id": "kissing_cat",
+     "description": "kissing cat"
+    },
+    {
+     "id": "weary_cat",
+     "description": "weary cat"
+    },
+    {
+     "id": "crying_cat",
+     "description": "crying cat"
+    },
+    {
+     "id": "pouting_cat",
+     "description": "pouting cat"
+    },
+    {
+     "id": "see_no_evil_monkey",
+     "description": "see-no-evil monkey"
+    },
+    {
+     "id": "hear_no_evil_monkey",
+     "description": "hear-no-evil monkey"
+    },
+    {
+     "id": "speak_no_evil_monkey",
+     "description": "speak-no-evil monkey"
+    }
+   ]
+  },
+  {
+   "id": "love",
+   "version": 1,
+   "name": "Love",
+   "url": "packs/love-1.zip",
+   "bytes": 322680,
+   "sha256": "1118459f0184356424b94a7f83881c05bf7c85ef67c0f27bd7cc526b2fbdacf3",
+   "stickers": [
+    {
+     "id": "love_letter",
+     "description": "love letter"
+    },
+    {
+     "id": "heart_with_arrow",
+     "description": "heart with arrow"
+    },
+    {
+     "id": "heart_with_ribbon",
+     "description": "heart with ribbon"
+    },
+    {
+     "id": "sparkling_heart",
+     "description": "sparkling heart"
+    },
+    {
+     "id": "growing_heart",
+     "description": "growing heart"
+    },
+    {
+     "id": "beating_heart",
+     "description": "beating heart"
+    },
+    {
+     "id": "revolving_hearts",
+     "description": "revolving hearts"
+    },
+    {
+     "id": "two_hearts",
+     "description": "two hearts"
+    },
+    {
+     "id": "heart_decoration",
+     "description": "heart decoration"
+    },
+    {
+     "id": "heart_exclamation",
+     "description": "heart exclamation"
+    },
+    {
+     "id": "broken_heart",
+     "description": "broken heart"
+    },
+    {
+     "id": "heart_on_fire",
+     "description": "heart on fire"
+    },
+    {
+     "id": "mending_heart",
+     "description": "mending heart"
+    },
+    {
+     "id": "red_heart",
+     "description": "red heart"
+    },
+    {
+     "id": "pink_heart",
+     "description": "pink heart"
+    },
+    {
+     "id": "orange_heart",
+     "description": "orange heart"
+    },
+    {
+     "id": "yellow_heart",
+     "description": "yellow heart"
+    },
+    {
+     "id": "green_heart",
+     "description": "green heart"
+    },
+    {
+     "id": "blue_heart",
+     "description": "blue heart"
+    },
+    {
+     "id": "light_blue_heart",
+     "description": "light blue heart"
+    },
+    {
+     "id": "purple_heart",
+     "description": "purple heart"
+    },
+    {
+     "id": "brown_heart",
+     "description": "brown heart"
+    },
+    {
+     "id": "black_heart",
+     "description": "black heart"
+    },
+    {
+     "id": "grey_heart",
+     "description": "grey heart"
+    },
+    {
+     "id": "white_heart",
+     "description": "white heart"
+    },
+    {
+     "id": "kiss_mark",
+     "description": "kiss mark"
+    },
+    {
+     "id": "hundred_points",
+     "description": "hundred points"
+    },
+    {
+     "id": "anger_symbol",
+     "description": "anger symbol"
+    },
+    {
+     "id": "collision",
+     "description": "collision"
+    },
+    {
+     "id": "dizzy",
+     "description": "dizzy"
+    },
+    {
+     "id": "sweat_droplets",
+     "description": "sweat droplets"
+    },
+    {
+     "id": "dashing_away",
+     "description": "dashing away"
+    },
+    {
+     "id": "hole",
+     "description": "hole"
+    },
+    {
+     "id": "speech_balloon",
+     "description": "speech balloon"
+    },
+    {
+     "id": "eye_in_speech_bubble",
+     "description": "eye in speech bubble"
+    },
+    {
+     "id": "left_speech_bubble",
+     "description": "left speech bubble"
+    },
+    {
+     "id": "right_anger_bubble",
+     "description": "right anger bubble"
+    },
+    {
+     "id": "thought_balloon",
+     "description": "thought balloon"
+    },
+    {
+     "id": "zzz",
+     "description": "zzz"
+    },
+    {
+     "id": "bouquet",
+     "description": "bouquet"
+    },
+    {
+     "id": "cherry_blossom",
+     "description": "cherry blossom"
+    },
+    {
+     "id": "white_flower",
+     "description": "white flower"
+    },
+    {
+     "id": "lotus",
+     "description": "lotus"
+    },
+    {
+     "id": "rosette",
+     "description": "rosette"
+    },
+    {
+     "id": "rose",
+     "description": "rose"
+    },
+    {
+     "id": "wilted_flower",
+     "description": "wilted flower"
+    },
+    {
+     "id": "hibiscus",
+     "description": "hibiscus"
+    },
+    {
+     "id": "sunflower",
+     "description": "sunflower"
+    },
+    {
+     "id": "blossom",
+     "description": "blossom"
+    },
+    {
+     "id": "tulip",
+     "description": "tulip"
+    },
+    {
+     "id": "hyacinth",
+     "description": "hyacinth"
+    }
+   ]
+  },
+  {
+   "id": "hands",
+   "version": 1,
+   "name": "Hands",
+   "url": "packs/hands-1.zip",
+   "bytes": 476596,
+   "sha256": "f3f63f8b3b54bcf32d906f6c5eebab96ff990c24ff4014adef4b628ef4e633ca",
+   "stickers": [
+    {
+     "id": "waving_hand",
+     "description": "waving hand"
+    },
+    {
+     "id": "raised_back_of_hand",
+     "description": "raised back of hand"
+    },
+    {
+     "id": "hand_with_fingers_splayed",
+     "description": "hand with fingers splayed"
+    },
+    {
+     "id": "raised_hand",
+     "description": "raised hand"
+    },
+    {
+     "id": "vulcan_salute",
+     "description": "vulcan salute"
+    },
+    {
+     "id": "rightwards_hand",
+     "description": "rightwards hand"
+    },
+    {
+     "id": "leftwards_hand",
+     "description": "leftwards hand"
+    },
+    {
+     "id": "palm_down_hand",
+     "description": "palm down hand"
+    },
+    {
+     "id": "palm_up_hand",
+     "description": "palm up hand"
+    },
+    {
+     "id": "leftwards_pushing_hand",
+     "description": "leftwards pushing hand"
+    },
+    {
+     "id": "rightwards_pushing_hand",
+     "description": "rightwards pushing hand"
+    },
+    {
+     "id": "ok_hand",
+     "description": "OK hand"
+    },
+    {
+     "id": "pinched_fingers",
+     "description": "pinched fingers"
+    },
+    {
+     "id": "pinching_hand",
+     "description": "pinching hand"
+    },
+    {
+     "id": "victory_hand",
+     "description": "victory hand"
+    },
+    {
+     "id": "crossed_fingers",
+     "description": "crossed fingers"
+    },
+    {
+     "id": "hand_with_index_finger_and_thumb_crossed",
+     "description": "hand with index finger and thumb crossed"
+    },
+    {
+     "id": "love_you_gesture",
+     "description": "love-you gesture"
+    },
+    {
+     "id": "sign_of_the_horns",
+     "description": "sign of the horns"
+    },
+    {
+     "id": "call_me_hand",
+     "description": "call me hand"
+    },
+    {
+     "id": "backhand_index_pointing_left",
+     "description": "backhand index pointing left"
+    },
+    {
+     "id": "backhand_index_pointing_right",
+     "description": "backhand index pointing right"
+    },
+    {
+     "id": "backhand_index_pointing_up",
+     "description": "backhand index pointing up"
+    },
+    {
+     "id": "middle_finger",
+     "description": "middle finger"
+    },
+    {
+     "id": "backhand_index_pointing_down",
+     "description": "backhand index pointing down"
+    },
+    {
+     "id": "index_pointing_up",
+     "description": "index pointing up"
+    },
+    {
+     "id": "index_pointing_at_the_viewer",
+     "description": "index pointing at the viewer"
+    },
+    {
+     "id": "thumbs_up",
+     "description": "thumbs up"
+    },
+    {
+     "id": "thumbs_down",
+     "description": "thumbs down"
+    },
+    {
+     "id": "raised_fist",
+     "description": "raised fist"
+    },
+    {
+     "id": "oncoming_fist",
+     "description": "oncoming fist"
+    },
+    {
+     "id": "left_facing_fist",
+     "description": "left-facing fist"
+    },
+    {
+     "id": "right_facing_fist",
+     "description": "right-facing fist"
+    },
+    {
+     "id": "clapping_hands",
+     "description": "clapping hands"
+    },
+    {
+     "id": "raising_hands",
+     "description": "raising hands"
+    },
+    {
+     "id": "heart_hands",
+     "description": "heart hands"
+    },
+    {
+     "id": "open_hands",
+     "description": "open hands"
+    },
+    {
+     "id": "palms_up_together",
+     "description": "palms up together"
+    },
+    {
+     "id": "handshake",
+     "description": "handshake"
+    },
+    {
+     "id": "folded_hands",
+     "description": "folded hands"
+    },
+    {
+     "id": "writing_hand",
+     "description": "writing hand"
+    },
+    {
+     "id": "nail_polish",
+     "description": "nail polish"
+    },
+    {
+     "id": "selfie",
+     "description": "selfie"
+    },
+    {
+     "id": "person_frowning",
+     "description": "person frowning"
+    },
+    {
+     "id": "man_frowning",
+     "description": "man frowning"
+    },
+    {
+     "id": "woman_frowning",
+     "description": "woman frowning"
+    },
+    {
+     "id": "person_pouting",
+     "description": "person pouting"
+    },
+    {
+     "id": "man_pouting",
+     "description": "man pouting"
+    },
+    {
+     "id": "woman_pouting",
+     "description": "woman pouting"
+    },
+    {
+     "id": "person_gesturing_no",
+     "description": "person gesturing NO"
+    },
+    {
+     "id": "man_gesturing_no",
+     "description": "man gesturing NO"
+    },
+    {
+     "id": "woman_gesturing_no",
+     "description": "woman gesturing NO"
+    },
+    {
+     "id": "person_gesturing_ok",
+     "description": "person gesturing OK"
+    },
+    {
+     "id": "man_gesturing_ok",
+     "description": "man gesturing OK"
+    },
+    {
+     "id": "woman_gesturing_ok",
+     "description": "woman gesturing OK"
+    },
+    {
+     "id": "person_tipping_hand",
+     "description": "person tipping hand"
+    },
+    {
+     "id": "man_tipping_hand",
+     "description": "man tipping hand"
+    },
+    {
+     "id": "woman_tipping_hand",
+     "description": "woman tipping hand"
+    },
+    {
+     "id": "person_raising_hand",
+     "description": "person raising hand"
+    },
+    {
+     "id": "man_raising_hand",
+     "description": "man raising hand"
+    },
+    {
+     "id": "woman_raising_hand",
+     "description": "woman raising hand"
+    },
+    {
+     "id": "person_deaf",
+     "description": "deaf person"
+    },
+    {
+     "id": "man_deaf",
+     "description": "deaf man"
+    },
+    {
+     "id": "woman_deaf",
+     "description": "deaf woman"
+    },
+    {
+     "id": "person_bowing",
+     "description": "person bowing"
+    },
+    {
+     "id": "man_bowing",
+     "description": "man bowing"
+    },
+    {
+     "id": "woman_bowing",
+     "description": "woman bowing"
+    },
+    {
+     "id": "person_facepalming",
+     "description": "person facepalming"
+    },
+    {
+     "id": "man_facepalming",
+     "description": "man facepalming"
+    },
+    {
+     "id": "woman_facepalming",
+     "description": "woman facepalming"
+    },
+    {
+     "id": "person_shrugging",
+     "description": "person shrugging"
+    },
+    {
+     "id": "man_shrugging",
+     "description": "man shrugging"
+    },
+    {
+     "id": "woman_shrugging",
+     "description": "woman shrugging"
+    }
+   ]
+  },
+  {
+   "id": "party",
+   "version": 1,
+   "name": "Party",
+   "url": "packs/party-1.zip",
+   "bytes": 177700,
+   "sha256": "dc9583ca75bdbacbaaaec947ae27e3c90c67ab9fa70fd0002d3a04ae4b26b175",
+   "stickers": [
+    {
+     "id": "jack_o_lantern",
+     "description": "jack-o-lantern"
+    },
+    {
+     "id": "christmas_tree",
+     "description": "Christmas tree"
+    },
+    {
+     "id": "fireworks",
+     "description": "fireworks"
+    },
+    {
+     "id": "sparkler",
+     "description": "sparkler"
+    },
+    {
+     "id": "firecracker",
+     "description": "firecracker"
+    },
+    {
+     "id": "sparkles",
+     "description": "sparkles"
+    },
+    {
+     "id": "balloon",
+     "description": "balloon"
+    },
+    {
+     "id": "party_popper",
+     "description": "party popper"
+    },
+    {
+     "id": "confetti_ball",
+     "description": "confetti ball"
+    },
+    {
+     "id": "tanabata_tree",
+     "description": "tanabata tree"
+    },
+    {
+     "id": "pine_decoration",
+     "description": "pine decoration"
+    },
+    {
+     "id": "japanese_dolls",
+     "description": "Japanese dolls"
+    },
+    {
+     "id": "carp_streamer",
+     "description": "carp streamer"
+    },
+    {
+     "id": "wind_chime",
+     "description": "wind chime"
+    },
+    {
+     "id": "moon_viewing_ceremony",
+     "description": "moon viewing ceremony"
+    },
+    {
+     "id": "red_envelope",
+     "description": "red envelope"
+    },
+    {
+     "id": "ribbon",
+     "description": "ribbon"
+    },
+    {
+     "id": "wrapped_gift",
+     "description": "wrapped gift"
+    },
+    {
+     "id": "reminder_ribbon",
+     "description": "reminder ribbon"
+    },
+    {
+     "id": "admission_tickets",
+     "description": "admission tickets"
+    },
+    {
+     "id": "ticket",
+     "description": "ticket"
+    },
+    {
+     "id": "military_medal",
+     "description": "military medal"
+    },
+    {
+     "id": "trophy",
+     "description": "trophy"
+    },
+    {
+     "id": "sports_medal",
+     "description": "sports medal"
+    },
+    {
+     "id": "1st_place_medal",
+     "description": "1st place medal"
+    },
+    {
+     "id": "2nd_place_medal",
+     "description": "2nd place medal"
+    },
+    {
+     "id": "3rd_place_medal",
+     "description": "3rd place medal"
+    }
+   ]
+  },
+  {
+   "id": "weather",
+   "version": 1,
+   "name": "Weather",
+   "url": "packs/weather-1.zip",
+   "bytes": 284656,
+   "sha256": "f7d3e38893c51f7bb3a7fc59e8aae6dc946427ff468df29e1c394a8bd13052d3",
+   "stickers": [
+    {
+     "id": "new_moon",
+     "description": "new moon"
+    },
+    {
+     "id": "waxing_crescent_moon",
+     "description": "waxing crescent moon"
+    },
+    {
+     "id": "first_quarter_moon",
+     "description": "first quarter moon"
+    },
+    {
+     "id": "waxing_gibbous_moon",
+     "description": "waxing gibbous moon"
+    },
+    {
+     "id": "full_moon",
+     "description": "full moon"
+    },
+    {
+     "id": "waning_gibbous_moon",
+     "description": "waning gibbous moon"
+    },
+    {
+     "id": "last_quarter_moon",
+     "description": "last quarter moon"
+    },
+    {
+     "id": "waning_crescent_moon",
+     "description": "waning crescent moon"
+    },
+    {
+     "id": "crescent_moon",
+     "description": "crescent moon"
+    },
+    {
+     "id": "new_moon_face",
+     "description": "new moon face"
+    },
+    {
+     "id": "first_quarter_moon_face",
+     "description": "first quarter moon face"
+    },
+    {
+     "id": "last_quarter_moon_face",
+     "description": "last quarter moon face"
+    },
+    {
+     "id": "thermometer",
+     "description": "thermometer"
+    },
+    {
+     "id": "sun",
+     "description": "sun"
+    },
+    {
+     "id": "full_moon_face",
+     "description": "full moon face"
+    },
+    {
+     "id": "sun_with_face",
+     "description": "sun with face"
+    },
+    {
+     "id": "ringed_planet",
+     "description": "ringed planet"
+    },
+    {
+     "id": "star",
+     "description": "star"
+    },
+    {
+     "id": "glowing_star",
+     "description": "glowing star"
+    },
+    {
+     "id": "shooting_star",
+     "description": "shooting star"
+    },
+    {
+     "id": "milky_way",
+     "description": "milky way"
+    },
+    {
+     "id": "cloud",
+     "description": "cloud"
+    },
+    {
+     "id": "sun_behind_cloud",
+     "description": "sun behind cloud"
+    },
+    {
+     "id": "cloud_with_lightning_and_rain",
+     "description": "cloud with lightning and rain"
+    },
+    {
+     "id": "sun_behind_small_cloud",
+     "description": "sun behind small cloud"
+    },
+    {
+     "id": "sun_behind_large_cloud",
+     "description": "sun behind large cloud"
+    },
+    {
+     "id": "sun_behind_rain_cloud",
+     "description": "sun behind rain cloud"
+    },
+    {
+     "id": "cloud_with_rain",
+     "description": "cloud with rain"
+    },
+    {
+     "id": "cloud_with_snow",
+     "description": "cloud with snow"
+    },
+    {
+     "id": "cloud_with_lightning",
+     "description": "cloud with lightning"
+    },
+    {
+     "id": "tornado",
+     "description": "tornado"
+    },
+    {
+     "id": "fog",
+     "description": "fog"
+    },
+    {
+     "id": "wind_face",
+     "description": "wind face"
+    },
+    {
+     "id": "cyclone",
+     "description": "cyclone"
+    },
+    {
+     "id": "rainbow",
+     "description": "rainbow"
+    },
+    {
+     "id": "closed_umbrella",
+     "description": "closed umbrella"
+    },
+    {
+     "id": "umbrella",
+     "description": "umbrella"
+    },
+    {
+     "id": "umbrella_with_rain_drops",
+     "description": "umbrella with rain drops"
+    },
+    {
+     "id": "umbrella_on_ground",
+     "description": "umbrella on ground"
+    },
+    {
+     "id": "high_voltage",
+     "description": "high voltage"
+    },
+    {
+     "id": "snowflake",
+     "description": "snowflake"
+    },
+    {
+     "id": "snowman",
+     "description": "snowman"
+    },
+    {
+     "id": "snowman_without_snow",
+     "description": "snowman without snow"
+    },
+    {
+     "id": "comet",
+     "description": "comet"
+    },
+    {
+     "id": "fire",
+     "description": "fire"
+    },
+    {
+     "id": "droplet",
+     "description": "droplet"
+    },
+    {
+     "id": "water_wave",
+     "description": "water wave"
+    }
+   ]
+  },
+  {
+   "id": "animals",
+   "version": 1,
+   "name": "Animals",
+   "url": "packs/animals-1.zip",
+   "bytes": 877478,
+   "sha256": "387bd2b20ea786f37ee041cc154c4b445f81c03a6cf02bad566782a3987a5adc",
+   "stickers": [
+    {
+     "id": "monkey_face",
+     "description": "monkey face"
+    },
+    {
+     "id": "monkey",
+     "description": "monkey"
+    },
+    {
+     "id": "gorilla",
+     "description": "gorilla"
+    },
+    {
+     "id": "orangutan",
+     "description": "orangutan"
+    },
+    {
+     "id": "dog_face",
+     "description": "dog face"
+    },
+    {
+     "id": "dog",
+     "description": "dog"
+    },
+    {
+     "id": "guide_dog",
+     "description": "guide dog"
+    },
+    {
+     "id": "service_dog",
+     "description": "service dog"
+    },
+    {
+     "id": "poodle",
+     "description": "poodle"
+    },
+    {
+     "id": "wolf",
+     "description": "wolf"
+    },
+    {
+     "id": "fox",
+     "description": "fox"
+    },
+    {
+     "id": "raccoon",
+     "description": "raccoon"
+    },
+    {
+     "id": "cat_face",
+     "description": "cat face"
+    },
+    {
+     "id": "cat",
+     "description": "cat"
+    },
+    {
+     "id": "black_cat",
+     "description": "black cat"
+    },
+    {
+     "id": "lion",
+     "description": "lion"
+    },
+    {
+     "id": "tiger_face",
+     "description": "tiger face"
+    },
+    {
+     "id": "tiger",
+     "description": "tiger"
+    },
+    {
+     "id": "leopard",
+     "description": "leopard"
+    },
+    {
+     "id": "horse_face",
+     "description": "horse face"
+    },
+    {
+     "id": "moose",
+     "description": "moose"
+    },
+    {
+     "id": "donkey",
+     "description": "donkey"
+    },
+    {
+     "id": "horse",
+     "description": "horse"
+    },
+    {
+     "id": "unicorn",
+     "description": "unicorn"
+    },
+    {
+     "id": "zebra",
+     "description": "zebra"
+    },
+    {
+     "id": "deer",
+     "description": "deer"
+    },
+    {
+     "id": "bison",
+     "description": "bison"
+    },
+    {
+     "id": "cow_face",
+     "description": "cow face"
+    },
+    {
+     "id": "ox",
+     "description": "ox"
+    },
+    {
+     "id": "water_buffalo",
+     "description": "water buffalo"
+    },
+    {
+     "id": "cow",
+     "description": "cow"
+    },
+    {
+     "id": "pig_face",
+     "description": "pig face"
+    },
+    {
+     "id": "pig",
+     "description": "pig"
+    },
+    {
+     "id": "boar",
+     "description": "boar"
+    },
+    {
+     "id": "pig_nose",
+     "description": "pig nose"
+    },
+    {
+     "id": "ram",
+     "description": "ram"
+    },
+    {
+     "id": "ewe",
+     "description": "ewe"
+    },
+    {
+     "id": "goat",
+     "description": "goat"
+    },
+    {
+     "id": "camel",
+     "description": "camel"
+    },
+    {
+     "id": "two_hump_camel",
+     "description": "two-hump camel"
+    },
+    {
+     "id": "llama",
+     "description": "llama"
+    },
+    {
+     "id": "giraffe",
+     "description": "giraffe"
+    },
+    {
+     "id": "elephant",
+     "description": "elephant"
+    },
+    {
+     "id": "mammoth",
+     "description": "mammoth"
+    },
+    {
+     "id": "rhinoceros",
+     "description": "rhinoceros"
+    },
+    {
+     "id": "hippopotamus",
+     "description": "hippopotamus"
+    },
+    {
+     "id": "mouse_face",
+     "description": "mouse face"
+    },
+    {
+     "id": "mouse",
+     "description": "mouse"
+    },
+    {
+     "id": "rat",
+     "description": "rat"
+    },
+    {
+     "id": "hamster",
+     "description": "hamster"
+    },
+    {
+     "id": "rabbit_face",
+     "description": "rabbit face"
+    },
+    {
+     "id": "rabbit",
+     "description": "rabbit"
+    },
+    {
+     "id": "chipmunk",
+     "description": "chipmunk"
+    },
+    {
+     "id": "beaver",
+     "description": "beaver"
+    },
+    {
+     "id": "hedgehog",
+     "description": "hedgehog"
+    },
+    {
+     "id": "bat",
+     "description": "bat"
+    },
+    {
+     "id": "bear",
+     "description": "bear"
+    },
+    {
+     "id": "polar_bear",
+     "description": "polar bear"
+    },
+    {
+     "id": "koala",
+     "description": "koala"
+    },
+    {
+     "id": "panda",
+     "description": "panda"
+    },
+    {
+     "id": "sloth",
+     "description": "sloth"
+    },
+    {
+     "id": "otter",
+     "description": "otter"
+    },
+    {
+     "id": "skunk",
+     "description": "skunk"
+    },
+    {
+     "id": "kangaroo",
+     "description": "kangaroo"
+    },
+    {
+     "id": "badger",
+     "description": "badger"
+    },
+    {
+     "id": "paw_prints",
+     "description": "paw prints"
+    },
+    {
+     "id": "turkey",
+     "description": "turkey"
+    },
+    {
+     "id": "chicken",
+     "description": "chicken"
+    },
+    {
+     "id": "rooster",
+     "description": "rooster"
+    },
+    {
+     "id": "hatching_chick",
+     "description": "hatching chick"
+    },
+    {
+     "id": "baby_chick",
+     "description": "baby chick"
+    },
+    {
+     "id": "front_facing_baby_chick",
+     "description": "front-facing baby chick"
+    },
+    {
+     "id": "bird",
+     "description": "bird"
+    },
+    {
+     "id": "penguin",
+     "description": "penguin"
+    },
+    {
+     "id": "dove",
+     "description": "dove"
+    },
+    {
+     "id": "eagle",
+     "description": "eagle"
+    },
+    {
+     "id": "duck",
+     "description": "duck"
+    },
+    {
+     "id": "swan",
+     "description": "swan"
+    },
+    {
+     "id": "owl",
+     "description": "owl"
+    },
+    {
+     "id": "dodo",
+     "description": "dodo"
+    },
+    {
+     "id": "feather",
+     "description": "feather"
+    },
+    {
+     "id": "flamingo",
+     "description": "flamingo"
+    },
+    {
+     "id": "peacock",
+     "description": "peacock"
+    },
+    {
+     "id": "parrot",
+     "description": "parrot"
+    },
+    {
+     "id": "wing",
+     "description": "wing"
+    },
+    {
+     "id": "blackbird",
+     "description": "black bird"
+    },
+    {
+     "id": "goose",
+     "description": "goose"
+    },
+    {
+     "id": "phoenix_bird",
+     "description": "phoenix"
+    },
+    {
+     "id": "frog",
+     "description": "frog"
+    },
+    {
+     "id": "crocodile",
+     "description": "crocodile"
+    },
+    {
+     "id": "turtle",
+     "description": "turtle"
+    },
+    {
+     "id": "lizard",
+     "description": "lizard"
+    },
+    {
+     "id": "snake",
+     "description": "snake"
+    },
+    {
+     "id": "dragon_face",
+     "description": "dragon face"
+    },
+    {
+     "id": "dragon",
+     "description": "dragon"
+    },
+    {
+     "id": "sauropod",
+     "description": "sauropod"
+    },
+    {
+     "id": "t_rex",
+     "description": "T-Rex"
+    },
+    {
+     "id": "spouting_whale",
+     "description": "spouting whale"
+    },
+    {
+     "id": "whale",
+     "description": "whale"
+    },
+    {
+     "id": "dolphin",
+     "description": "dolphin"
+    },
+    {
+     "id": "seal",
+     "description": "seal"
+    },
+    {
+     "id": "fish",
+     "description": "fish"
+    },
+    {
+     "id": "tropical_fish",
+     "description": "tropical fish"
+    },
+    {
+     "id": "blowfish",
+     "description": "blowfish"
+    },
+    {
+     "id": "shark",
+     "description": "shark"
+    },
+    {
+     "id": "octopus",
+     "description": "octopus"
+    },
+    {
+     "id": "spiral_shell",
+     "description": "spiral shell"
+    },
+    {
+     "id": "coral",
+     "description": "coral"
+    },
+    {
+     "id": "jellyfish",
+     "description": "jellyfish"
+    },
+    {
+     "id": "crab",
+     "description": "crab"
+    },
+    {
+     "id": "lobster",
+     "description": "lobster"
+    },
+    {
+     "id": "shrimp",
+     "description": "shrimp"
+    },
+    {
+     "id": "squid",
+     "description": "squid"
+    },
+    {
+     "id": "oyster",
+     "description": "oyster"
+    },
+    {
+     "id": "snail",
+     "description": "snail"
+    },
+    {
+     "id": "butterfly",
+     "description": "butterfly"
+    },
+    {
+     "id": "bug",
+     "description": "bug"
+    },
+    {
+     "id": "ant",
+     "description": "ant"
+    },
+    {
+     "id": "honeybee",
+     "description": "honeybee"
+    },
+    {
+     "id": "beetle",
+     "description": "beetle"
+    },
+    {
+     "id": "lady_beetle",
+     "description": "lady beetle"
+    },
+    {
+     "id": "cricket",
+     "description": "cricket"
+    },
+    {
+     "id": "cockroach",
+     "description": "cockroach"
+    },
+    {
+     "id": "spider",
+     "description": "spider"
+    },
+    {
+     "id": "spider_web",
+     "description": "spider web"
+    },
+    {
+     "id": "scorpion",
+     "description": "scorpion"
+    },
+    {
+     "id": "mosquito",
+     "description": "mosquito"
+    },
+    {
+     "id": "fly",
+     "description": "fly"
+    },
+    {
+     "id": "worm",
+     "description": "worm"
+    },
+    {
+     "id": "microbe",
+     "description": "microbe"
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "version": 1,
+   "name": "Food",
+   "url": "packs/food-1.zip",
+   "bytes": 724390,
+   "sha256": "ccd2f39c9a4c58ef03501b43c566475101b1a372d509b597efa9f76d2a6d233b",
+   "stickers": [
+    {
+     "id": "grapes",
+     "description": "grapes"
+    },
+    {
+     "id": "melon",
+     "description": "melon"
+    },
+    {
+     "id": "watermelon",
+     "description": "watermelon"
+    },
+    {
+     "id": "tangerine",
+     "description": "tangerine"
+    },
+    {
+     "id": "lemon",
+     "description": "lemon"
+    },
+    {
+     "id": "lime",
+     "description": "lime"
+    },
+    {
+     "id": "banana",
+     "description": "banana"
+    },
+    {
+     "id": "pineapple",
+     "description": "pineapple"
+    },
+    {
+     "id": "mango",
+     "description": "mango"
+    },
+    {
+     "id": "red_apple",
+     "description": "red apple"
+    },
+    {
+     "id": "green_apple",
+     "description": "green apple"
+    },
+    {
+     "id": "pear",
+     "description": "pear"
+    },
+    {
+     "id": "peach",
+     "description": "peach"
+    },
+    {
+     "id": "cherries",
+     "description": "cherries"
+    },
+    {
+     "id": "strawberry",
+     "description": "strawberry"
+    },
+    {
+     "id": "blueberries",
+     "description": "blueberries"
+    },
+    {
+     "id": "kiwi_fruit",
+     "description": "kiwi fruit"
+    },
+    {
+     "id": "tomato",
+     "description": "tomato"
+    },
+    {
+     "id": "olive",
+     "description": "olive"
+    },
+    {
+     "id": "coconut",
+     "description": "coconut"
+    },
+    {
+     "id": "avocado",
+     "description": "avocado"
+    },
+    {
+     "id": "eggplant",
+     "description": "eggplant"
+    },
+    {
+     "id": "potato",
+     "description": "potato"
+    },
+    {
+     "id": "carrot",
+     "description": "carrot"
+    },
+    {
+     "id": "ear_of_corn",
+     "description": "ear of corn"
+    },
+    {
+     "id": "hot_pepper",
+     "description": "hot pepper"
+    },
+    {
+     "id": "bell_pepper",
+     "description": "bell pepper"
+    },
+    {
+     "id": "cucumber",
+     "description": "cucumber"
+    },
+    {
+     "id": "leafy_green",
+     "description": "leafy green"
+    },
+    {
+     "id": "broccoli",
+     "description": "broccoli"
+    },
+    {
+     "id": "garlic",
+     "description": "garlic"
+    },
+    {
+     "id": "onion",
+     "description": "onion"
+    },
+    {
+     "id": "peanuts",
+     "description": "peanuts"
+    },
+    {
+     "id": "beans",
+     "description": "beans"
+    },
+    {
+     "id": "chestnut",
+     "description": "chestnut"
+    },
+    {
+     "id": "ginger_root",
+     "description": "ginger root"
+    },
+    {
+     "id": "pea_pod",
+     "description": "pea pod"
+    },
+    {
+     "id": "brown_mushroom",
+     "description": "brown mushroom"
+    },
+    {
+     "id": "bread",
+     "description": "bread"
+    },
+    {
+     "id": "croissant",
+     "description": "croissant"
+    },
+    {
+     "id": "baguette_bread",
+     "description": "baguette bread"
+    },
+    {
+     "id": "flatbread",
+     "description": "flatbread"
+    },
+    {
+     "id": "pretzel",
+     "description": "pretzel"
+    },
+    {
+     "id": "bagel",
+     "description": "bagel"
+    },
+    {
+     "id": "pancakes",
+     "description": "pancakes"
+    },
+    {
+     "id": "waffle",
+     "description": "waffle"
+    },
+    {
+     "id": "cheese_wedge",
+     "description": "cheese wedge"
+    },
+    {
+     "id": "meat_on_bone",
+     "description": "meat on bone"
+    },
+    {
+     "id": "poultry_leg",
+     "description": "poultry leg"
+    },
+    {
+     "id": "cut_of_meat",
+     "description": "cut of meat"
+    },
+    {
+     "id": "bacon",
+     "description": "bacon"
+    },
+    {
+     "id": "hamburger",
+     "description": "hamburger"
+    },
+    {
+     "id": "french_fries",
+     "description": "french fries"
+    },
+    {
+     "id": "pizza",
+     "description": "pizza"
+    },
+    {
+     "id": "hot_dog",
+     "description": "hot dog"
+    },
+    {
+     "id": "sandwich",
+     "description": "sandwich"
+    },
+    {
+     "id": "taco",
+     "description": "taco"
+    },
+    {
+     "id": "burrito",
+     "description": "burrito"
+    },
+    {
+     "id": "tamale",
+     "description": "tamale"
+    },
+    {
+     "id": "stuffed_flatbread",
+     "description": "stuffed flatbread"
+    },
+    {
+     "id": "falafel",
+     "description": "falafel"
+    },
+    {
+     "id": "egg",
+     "description": "egg"
+    },
+    {
+     "id": "cooking",
+     "description": "cooking"
+    },
+    {
+     "id": "shallow_pan_of_food",
+     "description": "shallow pan of food"
+    },
+    {
+     "id": "pot_of_food",
+     "description": "pot of food"
+    },
+    {
+     "id": "fondue",
+     "description": "fondue"
+    },
+    {
+     "id": "bowl_with_spoon",
+     "description": "bowl with spoon"
+    },
+    {
+     "id": "green_salad",
+     "description": "green salad"
+    },
+    {
+     "id": "popcorn",
+     "description": "popcorn"
+    },
+    {
+     "id": "butter",
+     "description": "butter"
+    },
+    {
+     "id": "salt",
+     "description": "salt"
+    },
+    {
+     "id": "canned_food",
+     "description": "canned food"
+    },
+    {
+     "id": "bento_box",
+     "description": "bento box"
+    },
+    {
+     "id": "rice_cracker",
+     "description": "rice cracker"
+    },
+    {
+     "id": "rice_ball",
+     "description": "rice ball"
+    },
+    {
+     "id": "cooked_rice",
+     "description": "cooked rice"
+    },
+    {
+     "id": "curry_rice",
+     "description": "curry rice"
+    },
+    {
+     "id": "steaming_bowl",
+     "description": "steaming bowl"
+    },
+    {
+     "id": "spaghetti",
+     "description": "spaghetti"
+    },
+    {
+     "id": "roasted_sweet_potato",
+     "description": "roasted sweet potato"
+    },
+    {
+     "id": "oden",
+     "description": "oden"
+    },
+    {
+     "id": "sushi",
+     "description": "sushi"
+    },
+    {
+     "id": "fried_shrimp",
+     "description": "fried shrimp"
+    },
+    {
+     "id": "fish_cake_with_swirl",
+     "description": "fish cake with swirl"
+    },
+    {
+     "id": "moon_cake",
+     "description": "moon cake"
+    },
+    {
+     "id": "dango",
+     "description": "dango"
+    },
+    {
+     "id": "dumpling",
+     "description": "dumpling"
+    },
+    {
+     "id": "fortune_cookie",
+     "description": "fortune cookie"
+    },
+    {
+     "id": "takeout_box",
+     "description": "takeout box"
+    },
+    {
+     "id": "soft_ice_cream",
+     "description": "soft ice cream"
+    },
+    {
+     "id": "shaved_ice",
+     "description": "shaved ice"
+    },
+    {
+     "id": "ice_cream",
+     "description": "ice cream"
+    },
+    {
+     "id": "doughnut",
+     "description": "doughnut"
+    },
+    {
+     "id": "cookie",
+     "description": "cookie"
+    },
+    {
+     "id": "birthday_cake",
+     "description": "birthday cake"
+    },
+    {
+     "id": "shortcake",
+     "description": "shortcake"
+    },
+    {
+     "id": "cupcake",
+     "description": "cupcake"
+    },
+    {
+     "id": "pie",
+     "description": "pie"
+    },
+    {
+     "id": "chocolate_bar",
+     "description": "chocolate bar"
+    },
+    {
+     "id": "candy",
+     "description": "candy"
+    },
+    {
+     "id": "lollipop",
+     "description": "lollipop"
+    },
+    {
+     "id": "custard",
+     "description": "custard"
+    },
+    {
+     "id": "honey_pot",
+     "description": "honey pot"
+    },
+    {
+     "id": "baby_bottle",
+     "description": "baby bottle"
+    },
+    {
+     "id": "glass_of_milk",
+     "description": "glass of milk"
+    },
+    {
+     "id": "hot_beverage",
+     "description": "hot beverage"
+    },
+    {
+     "id": "teapot",
+     "description": "teapot"
+    },
+    {
+     "id": "teacup_without_handle",
+     "description": "teacup without handle"
+    },
+    {
+     "id": "sake",
+     "description": "sake"
+    },
+    {
+     "id": "bottle_with_popping_cork",
+     "description": "bottle with popping cork"
+    },
+    {
+     "id": "wine_glass",
+     "description": "wine glass"
+    },
+    {
+     "id": "cocktail_glass",
+     "description": "cocktail glass"
+    },
+    {
+     "id": "tropical_drink",
+     "description": "tropical drink"
+    },
+    {
+     "id": "beer_mug",
+     "description": "beer mug"
+    },
+    {
+     "id": "clinking_beer_mugs",
+     "description": "clinking beer mugs"
+    },
+    {
+     "id": "clinking_glasses",
+     "description": "clinking glasses"
+    },
+    {
+     "id": "tumbler_glass",
+     "description": "tumbler glass"
+    },
+    {
+     "id": "pouring_liquid",
+     "description": "pouring liquid"
+    },
+    {
+     "id": "cup_with_straw",
+     "description": "cup with straw"
+    },
+    {
+     "id": "bubble_tea",
+     "description": "bubble tea"
+    },
+    {
+     "id": "beverage_box",
+     "description": "beverage box"
+    },
+    {
+     "id": "mate",
+     "description": "mate"
+    },
+    {
+     "id": "ice",
+     "description": "ice"
+    }
+   ]
+  },
+  {
+   "id": "sports",
+   "version": 1,
+   "name": "Sports",
+   "url": "packs/sports-1.zip",
+   "bytes": 308546,
+   "sha256": "e52c3a3b07265de5e43054ecba77765d9038f960747a338c2869d16f235bdda9",
+   "stickers": [
+    {
+     "id": "soccer_ball",
+     "description": "soccer ball"
+    },
+    {
+     "id": "baseball",
+     "description": "baseball"
+    },
+    {
+     "id": "softball",
+     "description": "softball"
+    },
+    {
+     "id": "basketball",
+     "description": "basketball"
+    },
+    {
+     "id": "volleyball",
+     "description": "volleyball"
+    },
+    {
+     "id": "american_football",
+     "description": "american football"
+    },
+    {
+     "id": "rugby_football",
+     "description": "rugby football"
+    },
+    {
+     "id": "tennis",
+     "description": "tennis"
+    },
+    {
+     "id": "flying_disc",
+     "description": "flying disc"
+    },
+    {
+     "id": "bowling",
+     "description": "bowling"
+    },
+    {
+     "id": "cricket_game",
+     "description": "cricket game"
+    },
+    {
+     "id": "field_hockey",
+     "description": "field hockey"
+    },
+    {
+     "id": "ice_hockey",
+     "description": "ice hockey"
+    },
+    {
+     "id": "lacrosse",
+     "description": "lacrosse"
+    },
+    {
+     "id": "ping_pong",
+     "description": "ping pong"
+    },
+    {
+     "id": "badminton",
+     "description": "badminton"
+    },
+    {
+     "id": "boxing_glove",
+     "description": "boxing glove"
+    },
+    {
+     "id": "martial_arts_uniform",
+     "description": "martial arts uniform"
+    },
+    {
+     "id": "goal_net",
+     "description": "goal net"
+    },
+    {
+     "id": "flag_in_hole",
+     "description": "flag in hole"
+    },
+    {
+     "id": "ice_skate",
+     "description": "ice skate"
+    },
+    {
+     "id": "fishing_pole",
+     "description": "fishing pole"
+    },
+    {
+     "id": "diving_mask",
+     "description": "diving mask"
+    },
+    {
+     "id": "running_shirt",
+     "description": "running shirt"
+    },
+    {
+     "id": "skis",
+     "description": "skis"
+    },
+    {
+     "id": "sled",
+     "description": "sled"
+    },
+    {
+     "id": "curling_stone",
+     "description": "curling stone"
+    },
+    {
+     "id": "bullseye",
+     "description": "bullseye"
+    },
+    {
+     "id": "yo_yo",
+     "description": "yo-yo"
+    },
+    {
+     "id": "kite",
+     "description": "kite"
+    },
+    {
+     "id": "water_pistol",
+     "description": "water pistol"
+    },
+    {
+     "id": "pool_8_ball",
+     "description": "pool 8 ball"
+    },
+    {
+     "id": "crystal_ball",
+     "description": "crystal ball"
+    },
+    {
+     "id": "magic_wand",
+     "description": "magic wand"
+    },
+    {
+     "id": "video_game",
+     "description": "video game"
+    },
+    {
+     "id": "joystick",
+     "description": "joystick"
+    },
+    {
+     "id": "slot_machine",
+     "description": "slot machine"
+    },
+    {
+     "id": "game_die",
+     "description": "game die"
+    },
+    {
+     "id": "puzzle_piece",
+     "description": "puzzle piece"
+    },
+    {
+     "id": "teddy_bear",
+     "description": "teddy bear"
+    },
+    {
+     "id": "pinata",
+     "description": "piñata"
+    },
+    {
+     "id": "mirror_ball",
+     "description": "mirror ball"
+    },
+    {
+     "id": "nesting_dolls",
+     "description": "nesting dolls"
+    },
+    {
+     "id": "spade_suit",
+     "description": "spade suit"
+    },
+    {
+     "id": "heart_suit",
+     "description": "heart suit"
+    },
+    {
+     "id": "diamond_suit",
+     "description": "diamond suit"
+    },
+    {
+     "id": "club_suit",
+     "description": "club suit"
+    },
+    {
+     "id": "chess_pawn",
+     "description": "chess pawn"
+    },
+    {
+     "id": "joker",
+     "description": "joker"
+    },
+    {
+     "id": "mahjong_red_dragon",
+     "description": "mahjong red dragon"
+    },
+    {
+     "id": "flower_playing_cards",
+     "description": "flower playing cards"
+    }
+   ]
+  },
+  {
+   "id": "fantasy",
+   "version": 1,
+   "name": "Fantasy",
+   "url": "packs/fantasy-1.zip",
+   "bytes": 260532,
+   "sha256": "8747721b970d953085d3cad73d1c495250844f3b574802407f6e288413cdbd25",
+   "stickers": [
+    {
+     "id": "baby_angel",
+     "description": "baby angel"
+    },
+    {
+     "id": "santa_claus",
+     "description": "Santa Claus"
+    },
+    {
+     "id": "mrs_claus",
+     "description": "Mrs. Claus"
+    },
+    {
+     "id": "mx_claus",
+     "description": "mx claus"
+    },
+    {
+     "id": "person_superhero",
+     "description": "superhero"
+    },
+    {
+     "id": "man_superhero",
+     "description": "man superhero"
+    },
+    {
+     "id": "woman_superhero",
+     "description": "woman superhero"
+    },
+    {
+     "id": "person_supervillain",
+     "description": "supervillain"
+    },
+    {
+     "id": "man_supervillain",
+     "description": "man supervillain"
+    },
+    {
+     "id": "woman_supervillain",
+     "description": "woman supervillain"
+    },
+    {
+     "id": "person_mage",
+     "description": "mage"
+    },
+    {
+     "id": "man_mage",
+     "description": "man mage"
+    },
+    {
+     "id": "woman_mage",
+     "description": "woman mage"
+    },
+    {
+     "id": "person_fairy",
+     "description": "fairy"
+    },
+    {
+     "id": "man_fairy",
+     "description": "man fairy"
+    },
+    {
+     "id": "woman_fairy",
+     "description": "woman fairy"
+    },
+    {
+     "id": "person_vampire",
+     "description": "vampire"
+    },
+    {
+     "id": "man_vampire",
+     "description": "man vampire"
+    },
+    {
+     "id": "woman_vampire",
+     "description": "woman vampire"
+    },
+    {
+     "id": "person_merpeople",
+     "description": "merperson"
+    },
+    {
+     "id": "man_merpeople",
+     "description": "merman"
+    },
+    {
+     "id": "woman_merpeople",
+     "description": "mermaid"
+    },
+    {
+     "id": "person_elf",
+     "description": "elf"
+    },
+    {
+     "id": "man_elf",
+     "description": "man elf"
+    },
+    {
+     "id": "woman_elf",
+     "description": "woman elf"
+    },
+    {
+     "id": "person_genie",
+     "description": "genie"
+    },
+    {
+     "id": "man_genie",
+     "description": "man genie"
+    },
+    {
+     "id": "woman_genie",
+     "description": "woman genie"
+    },
+    {
+     "id": "person_zombie",
+     "description": "zombie"
+    },
+    {
+     "id": "man_zombie",
+     "description": "man zombie"
+    },
+    {
+     "id": "woman_zombie",
+     "description": "woman zombie"
+    },
+    {
+     "id": "troll",
+     "description": "troll"
+    }
+   ]
+  }
+ ]
+}
